@@ -1,0 +1,24 @@
+.reverseInput {
+    width: 550px;
+    height: 35px;
+    border: red solid 2px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+.arrayInput {
+    width: 550px;
+    height: 35px;
+    border: red solid 2px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+.revButton {
+    color: red;
+    background: gold;
+    border-radius: 20px;
+}
+.arrButton {
+    color: red;
+    background: gold;
+    border-radius: 20px;
+}
